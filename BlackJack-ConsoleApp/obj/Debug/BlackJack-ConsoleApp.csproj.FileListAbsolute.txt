@@ -1,0 +1,8 @@
+C:\Users\nasee\source\repos\Basic_C#_Programs folder\BlackJack-ConsoleApp\bin\Debug\BlackJack-ConsoleApp.exe.config
+C:\Users\nasee\source\repos\Basic_C#_Programs folder\BlackJack-ConsoleApp\bin\Debug\BlackJack-ConsoleApp.exe
+C:\Users\nasee\source\repos\Basic_C#_Programs folder\BlackJack-ConsoleApp\bin\Debug\BlackJack-ConsoleApp.pdb
+C:\Users\nasee\source\repos\Basic_C#_Programs folder\BlackJack-ConsoleApp\obj\Debug\BlackJack-ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\nasee\source\repos\Basic_C#_Programs folder\BlackJack-ConsoleApp\obj\Debug\BlackJack-ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\nasee\source\repos\Basic_C#_Programs folder\BlackJack-ConsoleApp\obj\Debug\BlackJack-ConsoleApp.exe
+C:\Users\nasee\source\repos\Basic_C#_Programs folder\BlackJack-ConsoleApp\obj\Debug\BlackJack-ConsoleApp.pdb
+C:\Users\nasee\source\repos\Basic_C#_Programs folder\BlackJack-ConsoleApp\obj\Debug\BlackJack-ConsoleApp.exe.config

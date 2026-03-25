@@ -1,0 +1,12 @@
+C:\Users\nasee\source\repos\Basic_C#_Programs folder\BlackJack-ConsoleApp\obj\Debug\CardGames-ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\nasee\source\repos\Basic_C#_Programs folder\BlackJack-ConsoleApp\obj\Debug\CardGames-ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\nasee\source\repos\Basic_C#_Programs folder\BlackJack-ConsoleApp\bin\Debug\CardGames-ConsoleApp.exe.config
+C:\Users\nasee\source\repos\Basic_C#_Programs folder\BlackJack-ConsoleApp\bin\Debug\CardGames-ConsoleApp.exe
+C:\Users\nasee\source\repos\Basic_C#_Programs folder\BlackJack-ConsoleApp\bin\Debug\CardGames-ConsoleApp.pdb
+C:\Users\nasee\source\repos\Basic_C#_Programs folder\BlackJack-ConsoleApp\obj\Debug\CardGames-ConsoleApp.exe
+C:\Users\nasee\source\repos\Basic_C#_Programs folder\BlackJack-ConsoleApp\obj\Debug\CardGames-ConsoleApp.pdb
+C:\Users\nasee\source\repos\Basic_C#_Programs folder\BlackJack-ConsoleApp\bin\Debug\Casino.pdb
+C:\Users\nasee\source\repos\Basic_C#_Programs folder\BlackJack-ConsoleApp\bin\Debug\Casino.dll.config
+C:\Users\nasee\source\repos\Basic_C#_Programs folder\BlackJack-ConsoleApp\obj\Debug\CardGame.E5E62DE5.Up2Date
+C:\Users\nasee\source\repos\Basic_C#_Programs folder\BlackJack-ConsoleApp\bin\Debug\Casino.dll
+C:\Users\nasee\source\repos\Basic_C#_Programs folder\BlackJack-ConsoleApp\obj\Debug\CardGames-ConsoleApp.exe.config
