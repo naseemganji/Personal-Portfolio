@@ -33,7 +33,7 @@ Base: $50 | Age: +$25-$100 | Vehicle Year: +$25 | Porsche: +$25-$50 | DUI: +25% 
 
 ---
 
-## 🃏 Project 2: BlackJack Console App (C# Console)
+## 🃏 Project 2: BlackJack Console App (C# Console) https://github.com/naseemganji/Personal-Portfolio/tree/main/BlackJack-ConsoleApp
 
 **Tech Stack:** C# | .NET Framework 4.8 | OOP Principles | Console Application  
 **Repository:** [View on GitHub](#) *(Add your BlackJack repo link)*
